@@ -1,0 +1,7 @@
+include solvers_lin64/bonmin
+include solvers_lin64/cbc
+include solvers_lin64/couenne
+include solvers_lin64/glpsol
+include solvers_lin64/ipopt
+include solvers_lin64/scip
+include solvers_lin64/Invitation_FR.pdf
