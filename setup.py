@@ -7,7 +7,7 @@ setup(
     install_requires=[
         # List your dependencies here
     ],
-    package_data={'': ['solvers_lin64/Invitation_FR.pdf']},
+    package_data={'': ['solvers_lin64/Invitation_FR.pdf', 'solvers_lin64/glpsol']},
     zip_safe=False,
 )
 
